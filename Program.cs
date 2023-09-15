@@ -6,7 +6,8 @@ namespace Baekjoon
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello! GitHUb!");
+            string a = Console.ReadLine();
+            Console.WriteLine(a);
         }
     }
 }
